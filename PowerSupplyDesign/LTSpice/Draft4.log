@@ -1,0 +1,21 @@
+Circuit: * C:\Users\presi\Documents\LTspiceXVII\Transformerless_PSU\Draft4.asc
+
+.OP point found by inspection.
+
+Date: Sun Sep 10 10:41:31 2017
+Total elapsed time: 0.160 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4881
+traniter = 4881
+tranpoints = 1464
+accept = 1342
+rejected = 122
+matrix size = 16
+fillins = 14
+solver = Normal
+Matrix Compiler1: 1.73 KB object code size  0.7/0.2/[0.1]
+Matrix Compiler2: 1.50 KB object code size  0.2/0.2/[0.1]
+
